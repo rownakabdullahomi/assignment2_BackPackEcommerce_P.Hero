@@ -54,6 +54,14 @@ body{
 #travelbackpack_section img{
     padding-top: 22px;
 }
+#casualbackpack_section h3{
+    font-weight: bold;
+    padding-top: 5px;
+}
+#travelbackpack_section h3{
+    font-weight: bold;
+    padding-top: 5px;
+}
 .card {
     width: 22rem;
     margin-left: 22px;
@@ -117,6 +125,7 @@ body{
 }
 .signup_form {
     opacity: 0.8;
+    margin-top: 0px;
 }
 
 footer img {
